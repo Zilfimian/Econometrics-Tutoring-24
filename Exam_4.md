@@ -27,7 +27,7 @@ Suppose we have conducted a survey on 500 houses. The results of the regression 
 HousePrice
 ^
  =150000+30000⋅Bedrooms
-(Standard errors in parentheses)
+(Standard errors: 0.5, 0.06)
 
 ### Model 2
 
@@ -35,13 +35,14 @@ HousePrice
 ^
  =100000+25000⋅Bedrooms+200⋅Sqft
 (Standard errors in parentheses)
+(Standard errors: 0.5, 0.07, 0.25)
 
 ### Model 3
 
 HousePrice
 ^
  =110000+24000⋅Bedrooms+190⋅Sqft−1000⋅Age
-(Standard errors in parentheses)
+(Standard errors: 10, 0.25, 0.25, 0.67)
 
 Additional statistics:
 
