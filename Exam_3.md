@@ -47,3 +47,11 @@ Suggest a sufficient estimator of $\nu$ and with a MSE lower than the above ones
 - C) The coefficient is equal to zero.
 - D) The residuals are not normally distributed.
 
+  2.5 In regression analysis, how many dummy variables are needed to represent a categorical variable with k levels?
+
+- A) k
+- B) k-1
+- C) k+1
+- D) 2k
+
+  
