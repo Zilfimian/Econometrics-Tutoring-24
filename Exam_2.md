@@ -6,4 +6,7 @@ $\hat{\mu}_1 = \frac{1}{4} Y_1 + \frac{1}{2} Y_2 + \frac{1}{4} Y_3$
 
 $\hat{\mu}_2 = \frac{1}{3} Y_1 + \frac{1}{3} Y_2 + \frac{1}{3} Y_3$
 
+a. unbiased - ?
+b. efficient - ?
+
 # Questions 2
