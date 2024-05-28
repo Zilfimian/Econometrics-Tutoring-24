@@ -65,3 +65,38 @@ g) Predict the house price for a house with 4 bedrooms, 2000 square feet, and 10
 h) It has been argued that, controlling for other factors, older houses tend to be cheaper. Is this result consistent with the regression in Model 3? Explain.
 
 i) Which would be your preferred Model? Explain
+
+
+# Question 3
+
+We'll use the following variables:
+
+ - Mileage: Car mileage (dependent variable, measured in miles per gallon)
+ - EngineSize: Size of the car's engine (measured in liters)
+ - Weight: Weight of the car (measured in pounds)
+ - Age: Age of the car (measured in years)
+
+Suppose we conducted a study in 2022 on the main determinants of car mileage. We collected data from a sample of 200 cars. The descriptive statistics are as follows:
+
+![Table 1: Variables Description](https://github.com/Zilfimian/Econometrics-Tutoring-24/blob/main/E2T1.JPG?raw=true)
+
+1. Consider the following OLS regression line:
+Mileage^=𝛽0+3.5⋅EngineSize
+​OLS estimator of the intercept is___
+
+2. Consider the OLS regression line given below:
+Mileage^=35.5−3.5⋅EngineSize
+If the Total Sum of Squares of EngineSize equals 100.5 and the unbiased estimator of the error variance equals 9.0, the standard error of the slope is equal to
+
+3. Consider the following OLS regression line:
+Mileage^=55.0−2.5⋅EngineSize−0.004⋅Weight−0.8⋅Age
+If a car has a mean EngineSize, mean Weight, and mean Age, what is the fitted value of Mileage? 
+
+4. Consider the following OLS regression line:
+Mileage^=55.0−2.5⋅EngineSize−0.004⋅Weight−0.8⋅Ag
+A car in the sample has an EngineSize of 4.0, Weight of 4000 pounds, and is 5 years old. If its actual Mileage is 22, what is the OLS residual for this car?
+
+5. Consider the following OLS model:
+log⁡(Mileage)=0.108+0.032⋅EngineSize+0.117log
+
+If n=200, 𝑅2=0.65, SSR=5, the adjusted R-squared is equal to ___
