@@ -59,6 +59,35 @@ d) Compute the R-squared
 
 # Question 4
 
+The HH's medical expenses are determined by the following estimated regression model:
+
+$\text{Medical Expenses}_i = \beta_0 + \beta_1 \text{Age}_i + \beta_2 \text{Number of Visits to the Doctor}_i + \beta_3 \text{Chronic Conditions}_i$
+
+Where:
+- \( \text{Medical Expenses}_i \) represents the monthly medical expenses of the HH in Euros.
+- \( \text{Age}_i \) represents the age of the HH.
+- \( \text{Number of Visits to the Doctor}_i \) represents the number of visits to the doctor per month.
+- \( \text{Chronic Conditions}_i \) represents the number of chronic conditions the HH has.
+
+The HH's salary is determined by the following estimated regression model:
+
+$\log(\text{Salary})_i = 6.77 + 0.904 \log(\text{Sales})_i + 1.44 \text{HH Tenure}_i$
+
+Where:
+- \( \log(\text{Salary})_i \) represents the natural logarithm of the HH's monthly salary in thousand Euros.
+- \( \log(\text{Sales})_i \) indicates the natural logarithm of the monthly firm sales in thousand Euros.
+- \( \text{HH Tenure}_i \) measures the HH's tenure with the firm in years.
+
+a. Interpret the above estimated model.
+
+b. We reestimate the above model including a new explanatory factor, HH education in years, and we obtain the following estimation results:
+
+$\log(\text{Salary})_i = 5.77 + 0.774 \log(\text{Sales})_i + 1.15 \text{HH Tenure}_i + 0.54 \text{HH Education}_i$
+
+Where:
+- \( \text{HH Education}_i \) represents the years of education of the HH.
+
+Which is the model with a better goodness-of-fit? Why?
 
 
 
