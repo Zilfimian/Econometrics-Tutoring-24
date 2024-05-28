@@ -101,3 +101,16 @@ In Multiple Linear Regression (MLR), what does the coefficient of determination 
 - C) The strength of the relationship between the dependent and independent variables.
 - D) The magnitude of multicollinearity among the independent variables.
 
+In a regression analysis, what is the null hypothesis for the t-test associated with an independent variable's coefficient?
+- A) The coefficient is equal to zero.
+- B) The coefficient is greater than zero.
+- C) The coefficient is less than zero.
+- D) The coefficient is not significantly different from zero.
+
+When conducting a hypothesis test for the significance of the overall regression model, what is the null hypothesis for the F-test?
+- A) The intercept coefficient is equal to zero.
+- B) At least one of the independent variables has a coefficient equal to zero.
+- C) All independent variables have coefficients equal to zero.
+- D) The residuals are normally distributed.
+
+
