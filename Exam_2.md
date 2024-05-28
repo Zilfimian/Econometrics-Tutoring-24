@@ -7,6 +7,7 @@ $\hat{\mu}_1 = \frac{1}{4} Y_1 + \frac{1}{2} Y_2 + \frac{1}{4} Y_3$
 $\hat{\mu}_2 = \frac{1}{3} Y_1 + \frac{1}{3} Y_2 + \frac{1}{3} Y_3$
 
 a. unbiased - ?
+
 b. efficient - ?
 
 # Questions 2
@@ -86,6 +87,17 @@ $n=1000, R^2=0.64$
 Which is the model with a better goodness-of-fit? Why?
 
 
-
 # Question 5
+
+Which of the following best describes the concept of multicollinearity in Multiple Linear Regression (MLR)?
+- A) It occurs when the residuals are not normally distributed.
+- B) It refers to the situation where the relationship between two independent variables is linear.
+- C) It indicates a strong correlation among independent variables.
+- D) It is a measure of the overall goodness-of-fit of the regression model.
+
+In Multiple Linear Regression (MLR), what does the coefficient of determination (R-squared) represent?
+- A) The proportion of total variance explained by the model.
+- B) The significance level of the independent variables.
+- C) The strength of the relationship between the dependent and independent variables.
+- D) The magnitude of multicollinearity among the independent variables.
 
