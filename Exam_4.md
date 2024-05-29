@@ -10,7 +10,7 @@ Q1: By how much does the poverty rate increase when the unemployment rate increa
 
 Q2: In a Simple Linear Regression Model (SLRM) of poverty rate on unemployment rate, which of the Gauss-Markov assumptions is very likely to be violated? Explain.
 
-![graph](https://drive.google.com/file/d/1rJAq0owAZgv8zH4KckR9FayWV9jkAxBB/view?usp=drivesdk)
+[graph is here](https://drive.google.com/file/d/1rJAq0owAZgv8zH4KckR9FayWV9jkAxBB/view?usp=drivesdk)
 
 Q3: Given the OLS regression, compute the residual for a region with an unemployment rate of 7% and a poverty rate of 22%.
 
