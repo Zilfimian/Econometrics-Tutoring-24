@@ -54,4 +54,16 @@ Suggest a sufficient estimator of $\nu$ and with a MSE lower than the above ones
 - C) k+1
 - D) 2k
 
-  
+
+# Question 3
+
+Determine whether the following data correspond to time series or cross sectional data.
+
+1. Yearly race distribution in the United States during the last 20 years
+2. Average housing prices in New York City from 1990 to 2020
+3. Current life expectancy in different countries as of 2021
+4. Number of students enrolled in primary schools in different regions of India in 2022
+5. Monthly water consumption during the 20th century in the city of Madrid
+6. R&D expenditure in each of the European Union member states in 2003
+
+# Question 4
