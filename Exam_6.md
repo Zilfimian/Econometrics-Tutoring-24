@@ -9,6 +9,7 @@ Let $x_1, x_2, \ldots, x_n$ be a random sample of size $n$ taken from $\mathcal{
 # Question 2
 
 Suppose you are asked to conduct a study investigating the Effect of Remote Work on Productivity
+
 a) Why might you expect a positive correlation between the ability to work remotely and employee productivity?
 
 b) Would a positive correlation necessarily show that remote work causes higher productivity? Explain.
