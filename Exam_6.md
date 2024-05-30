@@ -16,8 +16,11 @@ Let $\hat{\mu}_1 = \frac{1}{4}(x_1 + x_2 + x_3 + x_4)$ be an estimator for the p
 **Note: Cross covariances are zero because the observations are independent.**
 
 a. Find $\mathbb{E}(\hat{\mu}_1)$ in terms of $\mu$.
+
 b. Find $\text{Var}(\hat{\mu}_1)$ in terms of $\sigma^2$.
+
 c. Discuss the sufficiency of both estimators $\hat{\mu}_1$ and $\hat{\mu}_2$.
+
 d. Based on all previous answers, determine which estimator is preferred and explain why.
    
 
