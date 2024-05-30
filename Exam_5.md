@@ -1,18 +1,47 @@
 # Question 1
 
+# 1.1
 Given independent random variables \(X_1, X_2, X_3\) with the following properties:
 
 - $E[X_1] = 1, \text{Var}[X_1] = 4$
 - $E[X_2] = 2,  \text{Var}[X_2] = 3$
 - $E[X_3] = 3,  \text{Var}[X_3] = 5$
 
-### Expectation of \(5X_1 + 2\)
+a. Expectation of \(5X_1 + 2\)
 
-### Expectation of $4X_1 + 2X_2 - 6X_3$
+b. Expectation of $4X_1 + 2X_2 - 6X_3$
 
-### Variance of $5X_1 + 2$
+c. Variance of $5X_1 + 2$
 
-### Variance of $4X_1 + 2X_2 - 6X_3$
+d. Variance of $4X_1 + 2X_2 - 6X_3$
+
+# 1.2
+
+## Problem: Estimating the Population Mean with Different Observations
+
+Let $Y$ be a random variable with $\mathbb{E}(Y) = \nu$ and $\text{Var}(Y) = \tau^2$.
+
+We have information about five independent observations: $y_1, y_2, y_3, y_4, y_5$.
+Let $\hat{\nu}_1 = \frac{1}{5}(y_1 + y_2 + y_3 + y_4 + y_5)$ be an estimator for the population mean.
+**Note: Cross covariances are zero because the observations are independent.**
+
+a. Find $\mathbb{E}(\hat{\nu}_1)$ in terms of $\nu$.
+
+b. Find $\text{Var}(\hat{\nu}_1)$ in terms of $\tau^2$.
+
+
+Consider a second estimator for the population mean $\hat{\nu}_2$ defined as:
+
+$$\hat{\nu}_2 = \frac{1}{10}y_1 + \frac{1}{10}y_2 + \frac{2}{10}y_3 + \frac{3}{10}y_4 + \frac{3}{10}y_5$$
+
+c. Show that $\hat{\nu}_2$ is an unbiased estimator for the population mean $\nu$.
+
+d. Find the variance of $\hat{\nu}_2$ in terms of $\tau^2$.
+
+e. Discuss the sufficiency of both estimators $\hat{\nu}_1$ and $\hat{\nu}_2$.
+
+f. Based on all previous answers, determine which estimator is preferred and explain why.
+
 
 # Question 2
 When conducting a regression analysis, how is the F-statistic calculated for the overall significance test?
