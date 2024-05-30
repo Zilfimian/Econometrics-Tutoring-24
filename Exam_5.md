@@ -39,3 +39,14 @@ What is the interpretation of the coefficient associated with a dummy variable i
 - B) The change in the dependent variable when the dummy variable equals 0 compared to the reference category.
 - C) The proportion of variance explained by the dummy variable.
 - D) The significance level of the dummy variable in the model.
+
+
+# Question 3
+
+1. Gender distribution in each of the OECD countries in 2010 
+2. Inflation rate in each of the OECD countries in 2008
+3. Quarterly unemployment rates in the United States from 2000 to 2020
+4. Current air quality index in various cities across China
+5. Annual GDP growth rate of Japan from 1980 to 2020
+6. Per capita income in different states of Brazil in 2021
+7. Median house prices in various neighborhoods of London
