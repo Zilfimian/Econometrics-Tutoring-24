@@ -67,3 +67,8 @@ Determine whether the following data correspond to time series or cross sectiona
 6. R&D expenditure in each of the European Union member states in 2003
 
 # Question 4
+
+Studying the Impact of Exercise on Mental Health
+a) Why might you expect a positive correlation between regular exercise and improved mental health?
+
+b) Would a positive correlation necessarily show that regular exercise causes improved mental health? Explain.
