@@ -23,7 +23,7 @@ such that $u_i$ denotes an unobservable error (random perturbances).
 Think about possible factors contained in $u_i$.
 
 ### b. Estimation
-Knowing that $\bar{Y} = 0.25$, $\bar{X} = 5$, $\text{Cov}(Y, X) = -0.7$, and $\text{Var}(X) = 0.45$, find the estimated value for the intercept and slope coefficients and interpret your results.
+Knowing that $\bar{Y} = 1.25$, $\bar{X} = 0․15$, $\text{Cov}(Y, X) = 1.7$, and $\text{Var}(X) = 0.45$, find the estimated value for the intercept and slope coefficients and interpret your results.
 
 
 # Question 3
@@ -45,10 +45,6 @@ Let's estimate the above function given the sample information in the table belo
 | 4           | 10                      | 70000      |
 | 5           | 3                       | 48000      |
 
-Additional Information:
-$\sum_{i=1}^{5} (y_i - \bar{y})(x_i - \bar{x}) = -15625$
-
-$SST_x = \sum_{i=1}^{5} (x_i - \bar{x})^2 = 6250$
 
 a) Which is the estimated salary function?
 
