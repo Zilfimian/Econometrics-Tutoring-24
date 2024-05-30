@@ -19,6 +19,13 @@ a. Find $\mathbb{E}(\hat{\mu}_1)$ in terms of $\mu$.
 
 b. Find $\text{Var}(\hat{\mu}_1)$ in terms of $\sigma^2$.
 
+Now consider a second estimator for the population mean μ̂2 being defined as:
+
+ $$\hat{\mu}_2 = \frac{1}{8}x_1 +  \frac{1}{8}x_2 +  \frac{1}{4}x_3 +  \frac{1}{2}x_4$$
+
+Show that this second estimator is also an unbiased estimator for the population
+mean. Find its variance.
+
 c. Discuss the sufficiency of both estimators $\hat{\mu}_1$ and $\hat{\mu}_2$.
 
 d. Based on all previous answers, determine which estimator is preferred and explain why.
