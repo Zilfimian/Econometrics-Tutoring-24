@@ -17,8 +17,6 @@ d. Variance of $4X_1 + 2X_2 - 6X_3$
 
 # 1.2
 
-## Problem: Estimating the Population Mean with Different Observations
-
 Let $Y$ be a random variable with $\mathbb{E}(Y) = \nu$ and $\text{Var}(Y) = \tau^2$.
 
 We have information about five independent observations: $y_1, y_2, y_3, y_4, y_5$.
