@@ -69,6 +69,16 @@ Determine whether the following data correspond to time series or cross sectiona
 # Question 4
 
 Studying the Impact of Exercise on Mental Health
+
 a) Why might you expect a positive correlation between regular exercise and improved mental health?
 
 b) Would a positive correlation necessarily show that regular exercise causes improved mental health? Explain.
+
+# Question 5
+
+A manager wants to know how employees feel about the new office policies. The manager asks the first 5 employees who arrive at work on Monday to give their opinions. The manager concludes from their responses that employees are generally satisfied with the new policies.
+
+a) What is the sample? What is the population?
+b) Could you identify any problems with choosing the sample in this way?
+
+
