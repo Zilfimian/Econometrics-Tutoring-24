@@ -110,3 +110,34 @@ When conducting a hypothesis test for the significance of the overall regression
 - D) The residuals are normally distributed.
 
 
+
+# Question 6
+
+## 6.1 
+Suppose you are asked to conduct a study investigating the Effect of Remote Work on Productivity
+
+a) Why might you expect a positive correlation between the ability to work remotely and employee productivity?
+
+b) Would a positive correlation necessarily show that remote work causes higher productivity? Explain.
+
+## 6.2 
+
+A store manager wants to know how customers feel about the service in the store. The manager asks the first 15 customers who leave the store on a Saturday morning to complete a survey. The manager concludes from their responses that customers are highly satisfied with the service.
+
+a) What is the sample? What is the population?
+
+b) Could you identify any problems with choosing the sample in this way?
+
+## 6.3 
+
+Suppose $x_1$ and $x_2$ are independent random variables with means $\mu_1$, $\mu_2$ and standard deviations $\sigma_1$, $\sigma_2$.
+
+$u = x_1 - bx_2$
+
+$v = ax_2 + bx_1$
+
+1. Find the mean of $u$.
+2. Find the variance of $u$.
+3. Find the mean of $v$.
+4. Find the variance of $v$.
+
