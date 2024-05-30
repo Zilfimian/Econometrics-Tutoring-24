@@ -50,3 +50,8 @@ What is the interpretation of the coefficient associated with a dummy variable i
 5. Annual GDP growth rate of Japan from 1980 to 2020
 6. Per capita income in different states of Brazil in 2021
 7. Median house prices in various neighborhoods of London
+
+
+# Question 4
+
+
