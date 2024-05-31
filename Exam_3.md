@@ -102,7 +102,7 @@ d- In your opinion, explain one application of the above model from the perspect
 Consider a SLRM relating the total sales revenue of a retail store (sales) to the number of employees (employees) with the following estimation results:
 
 $$log(\hat{\text{sales}}) = −2.45 + 0.75 log(\text{employees})$$  
-                                  (0.35) (0.08)
+                                 se: (0.35) (0.08)
 
 n = 107  
 $R^2 = 0.585$
