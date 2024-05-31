@@ -29,5 +29,96 @@ mean. Find its variance.
 c. Discuss the sufficiency of both estimators $\hat{\mu}_1$ and $\hat{\mu}_2$.
 
 d. Based on all previous answers, determine which estimator is preferred and explain why.
+
+
+# Question 2
+
+
+Using the data of eight athletes, a regression model was estimated to analyze the relationship between performance score (yyii) and training hours per week (xi):
+
+$$\hat{y}_i = 10.56 - 0.45x_i \quad R^2 = 0.466 \quad SSR = 39.21 \quad n = 8$$$
+(2.12) (0.38)
+
+Additionally, two different regressions are estimated. The first one only takes into account male athletes within the original sample:
+
+$$\hat{y}_i = 8.23 + 0.75x_i \quad R^2 = 0.976 \quad SSR = 0.949 \quad n = 4$$
+(0.782) (0.12)
+
+And the second one only takes into account female athletes within the original sample:
+
+$$\hat{y}_i = 7.89 + 0.65x_i \quad R^2 = 0.933 \quad SSR = 1.407 \quad n = 4$$
+
+(1.43) (0.32)
+
+Find whether making the distinction between male and female athletes helps to understand better the behavior of performance scores and interpret your results.
+
+
+# Question 3
+
+We have the following variables:
+Y: Monthly rent expenditure in USA.
+X: Family income.
+Z: Number of family members.
+Two different regressions are estimated with the following estimation results (standard errors are in brackets and sample size is 500):
+
+| Regression | Coefficient for X | Coefficient for Z | Adjusted R-Squared |
+|------------|--------------------|-------------------|--------------------|
+| Y / X      | 1.563              |                   | 0.512              |
+|            | (0.237)            |                   |                    |
+| Y / X; Z   | 0.932              | 0.426             | 0.896              |
+|            | (0.045)            | (0.072)           |                    |
+
+Find and discuss the specification error the first model is suffering. Explain it using the estimation results of the above table.
+
+
+# Question 4
+
+We have the following estimated regression model that explains the behavior of annual sales:
+
+$$\hat{y}_i = 500 + 20 \, \text{region}_i - 15 \, \text{online}_i - 30 \, \text{domestic}_i + 40 \, \text{urban}_i$$
+
+Such that sales is annual sales in thousand dollars, region is a region dummy variable with a value of 1 if the sampled company is located in the western region, online is a dummy variable that equals 1 if the company primarily sells online, domestic is a dummy variable with a value of 1 if the sampled company is a domestic company, and urban is a dummy variable with a value of 1 if the sampled company is located in an urban area.
+
+a- Find the predicted average sales for a foreign company in the eastern region that primarily sells offline and is located in a rural area.  
+b- Taking two companies of our sample, find the estimated average difference in their annual sales if we know that one of them is a domestic company located in an urban area in the western region and the other one is a foreign company that primarily sells online and is located in a rural area in the eastern region.
+
+# Question 5
+
+We have the following information for the annual growth rates (%) in different countries about stock prices (Y) and consumer prices (X):
+
+| Country     | Stock prices (Y) | Consumer prices (X) | Predicted Y | Estimation Residuals | Standardized Residual |
+|-------------|------------------|---------------------|-------------|----------------------|-----------------------|
+| Australia   | 5.0              | 4.3                 | 7.617       | -2.617               | -0.719                |
+| Austria     | 11.1             | 4.6                 | 7.573       | 3.526                | 0.969                 |
+| Belgium     | 3.2              | 2.4                 | 7.897       | -4.697               | -1.291                |
+| Canada      | 7.9              | 2.4                 | 7.897       | 0.002                | 0.0007                |
+| Denmark     | 3.8              | 4.2                 | 7.632       | -3.832               | -1.053                |
+| Finland     | 11.1             | 5.5                 | 7.441       | 3.658                | 1.005                 |
+| France      | 9.9              | 4.7                 | 7.559       | 2.340                | 0.643                 |
+| Germany     | 15.5             | 2.0                 | 7.956       | 7.544                | 2.073                 |
+| India       | 1.5              | 4.0                 | 7.662       | -6.162               | -1.693                |
+| Ireland     | 6.4              | 4.0                 | 7.662       | -1.262               | -0.346                |
+| Italy       | 8.1              | 3.3                 | 7.764       | 0.335                | 0.092                 |
+| Japan       | 13.5             | 4.7                 | 7.559       | 5.940                | 1.633                 |
+| Mexico      | 4.7              | 5.2                 | 7.485       | -2.785               | -0.765                |
+| Netherlands | 7.5              | 3.6                 | 7.720       | -0.220               | -0.060                |
+| New Zealand | 4.7              | 3.6                 | 7.720       | -3.020               | -0.830                |
+| Sweden      | 8.0              | 4.0                 | 7.662       | 0.338                | 0.092                 |
+| UK          | 7.5              | 3.9                 | 7.676       | -0.176               | -0.048                |
+| USA         | 9.0              | 2.1                 | 7.941       | 1.058                | 0.291                 |
+
+Knowing that: \(\hat{y}_i = 8.25 - 0.147x_i\)
+
+Answer the following questions:
+
+a- Complete the missing values in the above table.  
+b- Show both graphically and formally if the above data suffers from an outlier problem.  
+c- If the answer to b is positive, please explain a strategy to solve the problem.
+
+
+
+
+
+
    
 
