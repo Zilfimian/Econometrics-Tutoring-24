@@ -105,3 +105,34 @@ A car in the sample has an EngineSize of 4.0, Weight of 4000 pounds, and is 5 ye
 log⁡(Mileage)=0.108+0.032⋅EngineSize+0.117log
 
 If n=200, 𝑅2=0.65, SSR=5, the adjusted R-squared is equal to ___
+
+
+# Question 4
+
+A research firm has been commissioned by a health and wellness company to develop a model that will help their managers assess the body mass index (BMI) of their clients. They have information on the following variables: BMI (body mass index); weight (weight of the client in kilograms); dwork (distance in kilometers from the client's home to their workplace); age (age of the client in years) and workout (hours spent working out per week). The estimation results are given in the next Table.
+OLS estimates - Dependent variable: log(BMI)
+|             | Model 1 | Model 2 | Model 3 |
+|-------------|---------|---------|---------|
+| const       | 2.89    | 2.68    | 2.53    |
+|             | (0.036) | (0.056) | (0.072) |
+| weight      | 0.015   | 0.012   | 0.011   |
+|             | (0.0005)| (0.0005)| (0.0005)|
+| log(dwork)  | -0.191  | -0.151  |         |
+|             | (0.017) | (0.018) |         |
+| age         |         |         | 0.003   |
+|             |         |         | (0.0002)|
+| workout     |         |         | -0.005  |
+|             |         |         | (0.001) |
+| n           | 1199    | 1199    | 1199    |
+| R2          | 0.314   | 0.451   | 0.472   |
+| SSR         | 147.188 | 117.803 | 113.431 |
+Note: Standard errors in parentheses.
+Conduct all hypothesis tests at 1 % significance level
+
+a- Interpret the OLS slope coefficient of the SLRM. Is weight statistically significant?  
+b- Interpret the estimated coefficient on the variable log(dwork) in Model 2. Is distance statistically significant?  
+c- Predict the BMI of a client who weighs 75 kilograms and lives 10 km away from their workplace using Model 2.  
+d- How does the effect of weight on BMI change with respect to the estimation result in the SLRM (section a)? Why?  
+e- Test whether age and workout are jointly significant.  
+f- Test the overall significance of Model 3.  
+g- If you were part of the team in the research firm and had to choose a model, which one would you choose and why?
