@@ -101,10 +101,11 @@ d- In your opinion, explain one application of the above model from the perspect
 # Question 7
 Consider a SLRM relating the total sales revenue of a retail store (sales) to the number of employees (employees) with the following estimation results:
 $log(\hat{\text{sales}}) = −2.45 + 0.75 log(\text{employees})$  
-n = 97  
+                                  (0.35) (0.08)
+
+n = 107  
 $R^2 = 0.585$
 
-(0.35) (0.08)
 
 a- Interpret the estimated slope coefficient.  
 b- Calculate a two-tailed test to find whether the variable employees should be included in the regression model (at 1% significance level).  
