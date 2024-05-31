@@ -82,4 +82,22 @@ a) What is the sample? What is the population?
 
 b) Could you identify any problems with choosing the sample in this way?
 
+# Question 6
+
+**Let x be Study Hours per Week**  
+**Student's Exam Score (dependent) - y**
+
+We have a sample of 45 students enrolled in a course. We ask each student to report the number of hours they study per week (xx) from 0 to 10. We also know, for each student, their exam score (yy) out of 100. A linear regression line is estimated such that
+
+$$\hat{y}_i = 30 + 5x_i$$
+
+$$(1.2) \quad (0.5)$$
+
+$$R^2 = 0.42$$
+
+a- Interpret the estimated regression model and the value of the R-squared  
+b- Test the null hypothesis that study hours per week do not produce any significant effect on exam scores at a 1% significance level.  
+c- A different student studies 8 hours per week. Find the predicted exam score for this student.  
+d- In your opinion, explain one application of the above model from the perspective of the Academic Support department of the university.
+
 
