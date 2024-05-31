@@ -84,9 +84,6 @@ b) Could you identify any problems with choosing the sample in this way?
 
 # Question 6
 
-**Let x be Study Hours per Week**  
-**Student's Exam Score (dependent) - y**
-
 We have a sample of 45 students enrolled in a course. We ask each student to report the number of hours they study per week (xx) from 0 to 10. We also know, for each student, their exam score (yy) out of 100. A linear regression line is estimated such that
 
 $$\hat{y}_i = 30 + 5x_i$$
