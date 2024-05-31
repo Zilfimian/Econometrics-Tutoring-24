@@ -133,6 +133,8 @@ a- Interpret the OLS slope coefficient of the SLRM. Is weight statistically sign
 b- Interpret the estimated coefficient on the variable log(dwork) in Model 2. Is distance statistically significant?  
 c- Predict the BMI of a client who weighs 75 kilograms and lives 10 km away from their workplace using Model 2.  
 d- How does the effect of weight on BMI change with respect to the estimation result in the SLRM (section a)? Why?  Think about multicollinearity...
+
 e- Test whether age and workout are jointly significant.  
+
 f- Test the overall significance of Model 3.  
 g- If you were part of the team in the research firm and had to choose a model, which one would you choose and why?
