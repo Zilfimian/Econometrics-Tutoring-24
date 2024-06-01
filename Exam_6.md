@@ -93,15 +93,25 @@ Find and discuss the specification error the first model is suffering. Explain i
 
 
 # Question 4
+We have the following estimated regression model that explains the behavior of profits:
 
-We have the following estimated regression model that explains the behavior of annual sales:
+$$\hat{profit}_i = 215 + 14 \cdot sector_i - 22 \cdot home_i - 50 \cdot south_i + 45 \cdot urban_i$$
 
-$$\hat{y}_i = 500 + 20 \, \text{region}_i - 15 \, \text{online}_i - 30 \, \text{domestic}_i + 40 \, \text{urban}_i$$
+Such that:
+- **profit** is monthly profits in thousand dollars,
+- **sector** is a sector dummy variable with a value of 1 if the sampled company belongs to the tertiary sector,
+- **home** is a nationality dummy variable equal to 1 if the sampled company is a national company,
+- **south** is a dummy variable with a value of 1 if the sampled company is located in the south of the country,
+- **urban** is a dummy variable with a value of 1 if the sampled company is located in an urban area.
 
-Such that sales is annual sales in thousand dollars, region is a region dummy variable with a value of 1 if the sampled company is located in the western region, online is a dummy variable that equals 1 if the company primarily sells online, domestic is a dummy variable with a value of 1 if the sampled company is a domestic company, and urban is a dummy variable with a value of 1 if the sampled company is located in an urban area.
+### a. Predicted Average Profit
 
-a- Find the predicted average sales for a foreign company in the eastern region that primarily sells offline and is located in a rural area.  
-b- Taking two companies of our sample, find the estimated average difference in their annual sales if we know that one of them is a domestic company located in an urban area in the western region and the other one is a foreign company that primarily sells online and is located in a rural area in the eastern region.
+Find the predicted average profit for a foreign manufacturing company that is located in a rural area at the north of the country.
+
+### b. Estimated Average Difference in Monthly Profit
+
+Taking two companies of our sample, find the estimated average difference in their monthly profit if we know that one of them is a national manufacturing company located in a southern city of the country and the other one is a foreign services company located in a northern city of the country.
+
 
 # Question 5
 
