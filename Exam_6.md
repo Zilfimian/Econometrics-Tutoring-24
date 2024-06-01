@@ -71,7 +71,6 @@ $$(1.43) (0.032)$$
 
 # Question 3
 
-# Analysis of Food Expenditure in the USA
 
 We have the following variables:
 - **Y**: Food expenditure in USA.
