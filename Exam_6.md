@@ -87,7 +87,6 @@ Two different regressions are estimated with the following estimation results (s
 | Y / X; P   | 0.112             | -0.739            | 0.978              |
 |            | (0.003)           | (0.114)           |                    |
 
-## Specification Error in the First Model
 
 Find and discuss the specification error the first model is suffering. Explain it using the estimation results of the above table.
 
