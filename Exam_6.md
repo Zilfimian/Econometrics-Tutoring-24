@@ -33,9 +33,7 @@ d. Based on all previous answers, determine which estimator is preferred and exp
 
 # Question 2
 
-# Regression Model Analysis
-
-Using the data of eight firms, a regression model was estimated to analyze the relationship between investment in thousand Euros (\( y_i \)) and production growth rate in % (\( x_i \)):
+Using the data of eight firms, a regression model was estimated to analyze the relationship between investment in thousand Euros $y_i$ and production growth rate in % $x_i$:
 
 $y_i = 3.841 - 0.0812x_i$
 $R^2 = 0.466$
