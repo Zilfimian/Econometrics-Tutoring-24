@@ -147,10 +147,65 @@ Test that the salary difference between men and women does not depend on experie
 
 # Question 6
 
+Evaluate in which of the below cases, you can say that the presented results are compatible and explain why:
+
+Note: ρ is correlation coefficient
+
+### a) Cov(x, y) = 25.33 and ρ = -0.37
+
+### b) $s^2(x) = 1,000$, $n = 50$, $\sum x_i = 5,000$ and $CV(x) = 0.316$
+
+### c) and ρ = 0.775
+
+## Explanation
+
+Provide an explanation of the compatibility of the results based on the given data.
+
+
+![](EX7.jpg)
 
 # Question 7
 
+The Spanish National Health Commission has conducted a survey to investigate how obesity can affect health. For that purpose, they gather information about the general level of health, which is an index variable that ranges from 1 to 5, with 1 being a self-reported very bad level of health and 5 a very good level of health. Moreover, they collect information on the Body Mass Index (BMI), which is a value derived from the weight and height of an individual (it is defined as the body mass divided by the square of the body height). The resulting random sample contains the responses of 13,374 adults between 20 and 65 years old.
 
+The following model is estimated by OLS using health as the dependent variable:
+
+$\hat{health}_i = 3.288 - 0.024 \cdot BMI_i$
+$n = 13374$
+$\sum (residuals^2) = 35980$
+$\sum (actuals - mean(actuals))^2 = 29325$
+
+## Questions
+
+### Q1. BMI helps explain __% of the total variability of health for this particular sample of individuals.
+a. 0.815  
+b. 18.5  
+c. 81.5  
+d. 22.7
+
+### Q2. Which of the following is an algebraic property of Ordinary Least Squares (OLS) of this model?
+a. The sum, and therefore the sample average of the OLS residuals, is positive.  
+b. The point \((\bar{health}, \bar{BMI})\) is above the OLS regression line.  
+c. The sample mean of the actual values of health is equal to the sample mean of the predictions.  
+d. The sum of the OLS residuals is negative.
+
+### Q3. Choose the correct interpretation of the slope coefficient:
+a. When BMI equals zero, the average level of health is 3.288.  
+b. For every additional unit of BMI, the average level of health is predicted to decrease by 0.024%.  
+c. When BMI equals 10, the average level of health is 3.048.  
+d. For every additional unit of BMI, the average level of health is predicted to decrease by 0.024 units.
+
+### Q4. If Mary’s BMI is 20 and her reported level of health is 3, the model yields a residual for Mary of:
+a. -0.288  
+b. 2.808  
+c. 0.192  
+d. -0.480
+
+### Q5. The OLS estimator of this model is likely to be biased because __
+a. The variance of BMI is zero.  
+b. The correlation between BMI and the error component is different from zero.  
+c. The variance of BMI is positive.  
+d. The relationship between health and BMI is linear.
 
 
 
