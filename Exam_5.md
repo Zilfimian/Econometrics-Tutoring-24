@@ -70,6 +70,8 @@ What is the interpretation of the coefficient associated with a dummy variable i
 
 # Question 3
 
+Determine whether the following data is time series or cross sectional data.
+
 1. Gender distribution in each of the OECD countries in 2010 
 2. Inflation rate in each of the OECD countries in 2008
 3. Quarterly unemployment rates in the United States from 2000 to 2020
