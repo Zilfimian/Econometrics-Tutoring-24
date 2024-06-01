@@ -104,11 +104,11 @@ Such that:
 - **south** is a dummy variable with a value of 1 if the sampled company is located in the south of the country,
 - **urban** is a dummy variable with a value of 1 if the sampled company is located in an urban area.
 
-### a. Predicted Average Profit
+### a. 
 
 Find the predicted average profit for a foreign manufacturing company that is located in a rural area at the north of the country.
 
-### b. Estimated Average Difference in Monthly Profit
+### b. 
 
 Taking two companies of our sample, find the estimated average difference in their monthly profit if we know that one of them is a national manufacturing company located in a southern city of the country and the other one is a foreign services company located in a northern city of the country.
 
