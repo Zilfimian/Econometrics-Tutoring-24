@@ -120,9 +120,11 @@ Taking two companies of our sample, find the estimated average difference in the
 The following wage equations have been estimated using data on workers from Vietnam:
 
 $$\log(salary) = 1.25 + 0.15 \cdot gender + 0.02 \cdot exp$$
+
 $$(0.35) \quad (0.03) \quad (0.004)$$
 
 $$\log(salary) = 1.55 + 0.10 \cdot gender + 0.015 \cdot exp - 0.0005 \cdot (gender \times exp)$$
+
 $$ (0.48) \quad (0.05) \quad (0.005) \quad (0.002)$$
 
 Where:
