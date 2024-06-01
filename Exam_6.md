@@ -179,7 +179,7 @@ d. 22.7
 
 ### Q2. Which of the following is an algebraic property of Ordinary Least Squares (OLS) of this model?
 a. The sum, and therefore the sample average of the OLS residuals, is positive.  
-b. The point \((\bar{health}, \bar{BMI})\) is above the OLS regression line.  
+b. The point $(\bar{health}, \bar{BMI})$ is above the OLS regression line.  
 c. The sample mean of the actual values of health is equal to the sample mean of the predictions.  
 d. The sum of the OLS residuals is negative.
 
