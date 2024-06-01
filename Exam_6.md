@@ -115,36 +115,38 @@ Taking two companies of our sample, find the estimated average difference in the
 
 # Question 5
 
-We have the following information for the annual growth rates (%) in different countries about stock prices (Y) and consumer prices (X):
+# Wage Equations Analysis for Vietnam Workers
 
-| Country     | Stock prices (Y) | Consumer prices (X) | Predicted Y | Estimation Residuals | Standardized Residual |
-|-------------|------------------|---------------------|-------------|----------------------|-----------------------|
-| Australia   | 5.0              | 4.3                 | 7.617       | -2.617               | -0.719                |
-| Austria     | 11.1             | 4.6                 | 7.573       | 3.526                | 0.969                 |
-| Belgium     | 3.2              | 2.4                 | 7.897       | -4.697               | -1.291                |
-| Canada      | 7.9              | 2.4                 | 7.897       | 0.002                | 0.0007                |
-| Denmark     | 3.8              | 4.2                 | 7.632       | -3.832               | -1.053                |
-| Finland     | 11.1             | 5.5                 | 7.441       | 3.658                | 1.005                 |
-| France      | 9.9              | 4.7                 | 7.559       | 2.340                | 0.643                 |
-| Germany     | 15.5             | 2.0                 | 7.956       | 7.544                | 2.073                 |
-| India       | 1.5              | 4.0                 | 7.662       | -6.162               | -1.693                |
-| Ireland     | 6.4              | 4.0                 | 7.662       | -1.262               | -0.346                |
-| Italy       | 8.1              | 3.3                 | 7.764       | 0.335                | 0.092                 |
-| Japan       | 13.5             | 4.7                 | 7.559       | 5.940                | 1.633                 |
-| Mexico      | 4.7              | 5.2                 | 7.485       | -2.785               | -0.765                |
-| Netherlands | 7.5              | 3.6                 | 7.720       | -0.220               | -0.060                |
-| New Zealand | 4.7              | 3.6                 | 7.720       | -3.020               | -0.830                |
-| Sweden      | 8.0              | 4.0                 | 7.662       | 0.338                | 0.092                 |
-| UK          | 7.5              | 3.9                 | 7.676       | -0.176               | -0.048                |
-| USA         | 9.0              | 2.1                 | 7.941       | 1.058                | 0.291                 |
+The following wage equations have been estimated using data on workers from Vietnam:
 
-Knowing that: \(\hat{y}_i = 8.25 - 0.147x_i\)
+$$\log(salary) = 1.25 + 0.15 \cdot gender + 0.02 \cdot exp$$
+$$(0.35) \quad (0.03) \quad (0.004)$$
 
-Answer the following questions:
+$$\log(salary) = 1.55 + 0.10 \cdot gender + 0.015 \cdot exp - 0.0005 \cdot (gender \times exp)$$
+$$ (0.48) \quad (0.05) \quad (0.005) \quad (0.002)$$
 
-a- Complete the missing values in the above table.  
-b- Show both graphically and formally if the above data suffers from an outlier problem.  
-c- If the answer to b is positive, please explain a strategy to solve the problem.
+Where:
+- **salary** is measured in US dollars,
+- **gender** is a dummy variable taking the value of 1 if the worker is male and 0 if the worker is female,
+- **exp** measures the years of work experience.
+
+
+### a. 
+
+What is the estimated average difference between a man's salary with 5 years of work experience and that of a woman's with 10 years of work experience according to the first model?
+
+### b.
+
+What is the estimated average difference between a man's salary with 5 years of work experience and that of a woman's with 10 years of work experience according to the second model?
+
+### c. 
+
+Test that the salary difference between men and women does not depend on experience. (Test whether the effect of experience on wages is the same for both men and women.)
+
+# Question 6
+
+
+# Question 7
 
 
 
