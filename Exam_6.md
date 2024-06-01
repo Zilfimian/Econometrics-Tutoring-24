@@ -33,24 +33,44 @@ d. Based on all previous answers, determine which estimator is preferred and exp
 
 # Question 2
 
+# Regression Model Analysis
 
-Using the data of eight athletes, a regression model was estimated to analyze the relationship between performance score (yyii) and training hours per week (xi):
+Using the data of eight firms, a regression model was estimated to analyze the relationship between investment in thousand Euros (\( y_i \)) and production growth rate in % (\( x_i \)):
 
-$$\hat{y}_i = 10.56 - 0.45x_i \quad R^2 = 0.466 \quad SSR = 39.21 \quad n = 8$$$
-(2.12) (0.38)
+$y_i = 3.841 - 0.0812x_i$
+$R^2 = 0.466$
+$SS = 39.21$
+$n = 8$
 
-Additionally, two different regressions are estimated. The first one only takes into account male athletes within the original sample:
+Standart Errors:
 
-$$\hat{y}_i = 8.23 + 0.75x_i \quad R^2 = 0.976 \quad SSR = 0.949 \quad n = 4$$
-(0.782) (0.12)
+$(2.12) (0.038)$
 
-And the second one only takes into account female athletes within the original sample:
+Additionally, two different regressions are estimated. The first one only takes into account European firms within the original sample:
 
-$$\hat{y}_i = 7.89 + 0.65x_i \quad R^2 = 0.933 \quad SSR = 1.407 \quad n = 4$$
+$y_i = -0.372 + 0.108x_i$
+$R^2 = 0.976$
+$SS = 0.949$
+$n = 4$
 
-(1.43) (0.32)
+Standart Errors:
 
-Find whether making the distinction between male and female athletes helps to understand better the behavior of performance scores and interpret your results.
+$(0.782) (0.012)$
+
+And the second one only takes into account American firms within the original sample:
+
+$y_i = 1.259 + 0.171x_i$
+$R^2 = 0.933$
+$SS = 1.407$
+$n = 4$
+
+Standart Errors:
+
+$(1.43) (0.032)$
+
+## Interpretation
+
+Find whether making the distinction between European and American firms helps to understand better the behavior of investment and interpret your results.
 
 
 # Question 3
