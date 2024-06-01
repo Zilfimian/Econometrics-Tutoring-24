@@ -170,7 +170,6 @@ $n = 13374$
 $\sum (residuals^2) = 35980$
 $\sum (actuals - mean(actuals))^2 = 29325$
 
-## Questions
 
 ### Q1. BMI helps explain __% of the total variability of health for this particular sample of individuals.
 a. 0.815  
