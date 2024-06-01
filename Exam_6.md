@@ -42,7 +42,7 @@ $n = 8$
 
 Standart Errors:
 
-$(2.12) (0.038)$
+$$(2.12) (0.038)$$
 
 Additionally, two different regressions are estimated. The first one only takes into account European firms within the original sample:
 
@@ -53,7 +53,7 @@ $n = 4$
 
 Standart Errors:
 
-$(0.782) (0.012)$
+$$(0.782) (0.012)$$
 
 And the second one only takes into account American firms within the original sample:
 
@@ -64,7 +64,7 @@ $n = 4$
 
 Standart Errors:
 
-$(1.43) (0.032)$
+$$(1.43) (0.032)$$
 
 ## Interpretation
 
