@@ -154,14 +154,10 @@ Note: ρ is correlation coefficient
 
 ### b) $s^2(x) = 1,000$, $n = 50$, $\sum x_i = 5,000$ and $CV(x) = 0.316$
 
-### c) and ρ = 0.775
+### c)  ρ = 0.775 and the graph below
 
-## Explanation
+![EX7.jpg](https://github.com/Zilfimian/Econometrics-Tutoring-24/blob/main/EX7.JPG)
 
-Provide an explanation of the compatibility of the results based on the given data.
-
-
-![](EX7.jpg)
 
 # Question 7
 
