@@ -71,20 +71,26 @@ $$(1.43) (0.032)$$
 
 # Question 3
 
+# Analysis of Food Expenditure in the USA
+
 We have the following variables:
-Y: Monthly rent expenditure in USA.
-X: Family income.
-Z: Number of family members.
+- **Y**: Food expenditure in USA.
+- **X**: Family income.
+- **P**: Price index.
+
 Two different regressions are estimated with the following estimation results (standard errors are in brackets and sample size is 500):
 
-| Regression | Coefficient for X | Coefficient for Z | Adjusted R-Squared |
-|------------|--------------------|-------------------|--------------------|
-| Y / X      | 1.563              |                   | 0.512              |
-|            | (0.237)            |                   |                    |
-| Y / X; Z   | 0.932              | 0.426             | 0.896              |
-|            | (0.045)            | (0.072)           |                    |
+| Regression | Coefficient for X | Coefficient for P | Adjusted R-Squared |
+|------------|-------------------|-------------------|--------------------|
+| Y / P      |                   | 2.462             |  0.614             |
+|            |                   | (0.407)           |                    |
+| Y / X; P   | 0.112             | -0.739            | 0.978              |
+|            | (0.003)           | (0.114)           |                    |
+
+## Specification Error in the First Model
 
 Find and discuss the specification error the first model is suffering. Explain it using the estimation results of the above table.
+
 
 
 # Question 4
