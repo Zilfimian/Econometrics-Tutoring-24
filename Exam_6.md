@@ -66,9 +66,7 @@ Standart Errors:
 
 $$(1.43) (0.032)$$
 
-## Interpretation
-
-Find whether making the distinction between European and American firms helps to understand better the behavior of investment and interpret your results.
+**Find whether making the distinction between European and American firms helps to understand better the behavior of investment and interpret your results.**
 
 
 # Question 3
